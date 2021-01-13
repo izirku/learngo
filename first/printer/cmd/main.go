@@ -9,7 +9,7 @@
 package main
 
 // Automatically imports!... AWESOME!
-import "github.com/inancgumus/learngo/first/printer"
+import "github.com/izirku/learngo/first/printer"
 
 func main() {
 	printer.Hello()

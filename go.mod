@@ -1,4 +1,4 @@
-module github.com/inancgumus/learngo
+module github.com/izirku/learngo
 
 go 1.13
 
